@@ -11,8 +11,9 @@
   "dependencies": {
     "@react-navigation/native": "^6.1.6",
     "@react-navigation/native-stack": "^6.9.12",
-    "react": "18.2.0",
-    "react-native": "0.73.7",
-    "expo": "^53.0.0"
+    "expo": "^53.0.0",
+    "metro": "^0.82.3",
+    "react": "^19.0.0",
+    "react-native": "^0.79.2"
   }
 }
